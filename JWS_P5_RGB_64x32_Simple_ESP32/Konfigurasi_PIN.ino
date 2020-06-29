@@ -1,0 +1,24 @@
+/*
+ * KONFIGURASI PIN
+R1  19
+G1  13
+B1  18
+GND GND
+R2  5
+G2  12
+B2  17
+
+CLK  2
+OE   15  // TX
+LAT  26  // RX
+A   16
+B   14
+C   4
+D   27
+
+SDA 21
+SCL 22
+
+Buzzer 32
+
+*/
