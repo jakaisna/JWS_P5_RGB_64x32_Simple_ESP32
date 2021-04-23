@@ -25,7 +25,7 @@
               #include <SPI.h>            --> komunikasi ke modul P10
               #include <DMD3.h>           --> library untuk modul P10
               #include <Wire.h>           --> komunikasi ke modul RTC DS3231
-              #include <DS3231.h>         --> library modul RTC DS 3231
+              #include <DS3231.h>         --> library modul RTC DS 3231 https://github.com/NorthernWidget/DS3231/tree/master/examples
               #include <EEPROM.h>         --> library untuk penggunaan EEPROM sebagai sarana penyimpan parameter
               #include <avr/pgmspace.h>   --> library untuk penggunaan PROGMEM agar utilisasi SRAM bisa optimal
               #include "RGBmatrixPanel.h" --> https://github.com/adafruit/RGB-matrix-Panel
